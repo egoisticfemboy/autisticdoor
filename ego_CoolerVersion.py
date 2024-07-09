@@ -1,3 +1,4 @@
+# Just a coooler looking version because why not :3
 import csv
 
 f = "Wetterdaten24.06.2024-30.06.2024.csv"
